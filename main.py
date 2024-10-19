@@ -6,4 +6,5 @@ from Lable_Prediction import lable_prediction
 from easygoogletranslate import EasyGoogleTranslate
 from transformers import pipeline
 import AutoModelForSequenceClassification
+import numpy as np
 Emotion_detection("Enter your text here")
