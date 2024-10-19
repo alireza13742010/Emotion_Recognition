@@ -18,3 +18,6 @@ lingua-language-detector
  ##  Input text: لا أستمتع بالتواجد في الطبيعة، فأغصان الأشجار تزعجنی
 
  ##  Out: الغضب
+
+# Support
+For adding more language and getting access to the application please contact us: https://avidmech.ir/contact-us/
